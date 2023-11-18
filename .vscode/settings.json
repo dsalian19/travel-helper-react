@@ -1,0 +1,5 @@
+{
+    "debug.javascript.debugByLinkOptions": "on",
+    "json.validate.enable": true,
+    "javascript.validate.enable": false
+}
