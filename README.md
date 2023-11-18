@@ -1,6 +1,4 @@
-# Travel Advisor
-
-![Travel Advisor](https://i.ibb.co/qph2cZn/image.pngg)
+# TravelHelper
 
 ## Introduction
 Created TravelHelper Application using Google Maps. Implemented Geolocation, Google Maps API, Searching for places, Fetching restaurants, hotels and attractions based on location from specialized Rapid APIs, and data filtering.
